@@ -1,0 +1,8 @@
+name: music_app
+description: Artist Playlist Generator
+
+dependencies:
+  flutter:
+    sdk: flutter
+  on_audio_query: ^2.9.0
+  permission_handler: ^11.3.1
